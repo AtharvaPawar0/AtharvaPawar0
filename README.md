@@ -111,7 +111,30 @@ https://github.com/AtharvaPawar0/EventHive
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaPawar0&theme=tokyo-night&hide_border=true" />
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaPawar0&custom_title=Atharva's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaPawar0&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaPawar0&theme=github_dark&utcOffset=5.30" />
+
+</div>
+
+---
+
+## ⚡ Contribution Dots Style
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/38BDF8/AtharvaPawar0" alt="GitHub Contribution Chart" />
+
+</div>
+
 
 ---
 
