@@ -117,12 +117,6 @@ https://github.com/AtharvaPawar0/EventHive
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaPawar0&theme=github_dark" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaPawar0&theme=github_dark&utcOffset=5.30" />
-
 </div>
 
 ---
